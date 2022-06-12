@@ -1,0 +1,19 @@
+{
+	"flex": {
+		"style": {
+			"display": "flex"
+		}
+	},
+	"text-lg": {
+		"style": {
+			"fontSize": 18,
+			"lineHeight": 28
+		}
+	},
+	"text-blue-800": {
+		"style": {
+			"--tw-text-opacity": 1,
+			"color": "rgb(30 64 175 / var(--tw-text-opacity))"
+		}
+	}
+}
